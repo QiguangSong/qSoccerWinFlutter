@@ -1,0 +1,4 @@
+#Wed Sep 15 15:27:09 CEST 2021
+base.0=/home/song/project/flutter_proj/game_notification/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
